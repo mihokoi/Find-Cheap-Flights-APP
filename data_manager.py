@@ -1,7 +1,7 @@
 import requests
 
-SHEETY_PRICES_ENDPOINT = "https://api.sheety.co/de44a0c1003a710996ebc40b71bfb2fc/flightDeals/prices"
-TOKEN = "asddsaad2132313213#@Y&*#!#@!VBUJBVUDSABH"
+SHEETY_PRICES_ENDPOINT = "SHEETY_URL"
+TOKEN = "TOKEN"
 header = {
     "Authorization": f"Bearer {TOKEN}"
 }
